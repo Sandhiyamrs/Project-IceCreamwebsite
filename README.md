@@ -20,30 +20,30 @@
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-![Home page](image home.jpg)
+(image home.jpg)
 
 ### ⚙ Explore flavors Page
-![Explore flavors](image eplore flavors.jpg)
+(image eplore flavors.jpg)
 
 ### 🎨 login Page
-![login ](image login.jpg)
+(image login.jpg)
 
 ### ⚙ featured scoops Page
-![featured scoops ](image featured scoops.jpg)
+(image featured scoops.jpg)
 
 ### ⚙ scoops brands Page
-![scoops brands ](image scoops brands.jpg)
+(image scoops brands.jpg)
 
 ### ⚙ Cart Page
-![carts ](image carts.jpg)
+(image carts.jpg)
 
 ### ⚙ place order Page
-![place order ](image place order.jpg)
+(image place order.jpg)
 
 ### ⚙ order confirmation Page
-![order confirmation ](image order confirmation.jpg)
+(image order confirmation.jpg)
 
-
+---
 
 ## 🛠️ Tech Stack
 | Frontend | Storage | Animations | Hosting |
@@ -64,6 +64,7 @@
 📧 Email: sandhiyamrs2006@gmail.com
 
 
+---
 
 ⭐ Support
 
