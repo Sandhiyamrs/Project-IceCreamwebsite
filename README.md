@@ -20,28 +20,28 @@
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-(image home.jpg)
+[(image Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/home.jpg)
 
 ### ⚙ Explore flavors Page
-(image eplore flavors.jpg)
+[(image explore flavors.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/explore-flavors.jpg)
 
 ### 🎨 login Page
-(image login.jpg)
+[(image login.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/login.jpg)
 
 ### ⚙ featured scoops Page
-(image featured scoops.jpg)
+[(image featured scoops.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/featured-scoops.jpg)
 
 ### ⚙ scoops brands Page
-(image scoops brands.jpg)
+[(image scoops brands.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/scoops-brands.jpg)
 
 ### ⚙ Cart Page
-(image carts.jpg)
+[(image cart.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/cart.jpg)
 
 ### ⚙ place order Page
-(image place order.jpg)
+[(image place order.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/place-order.jpg)
 
 ### ⚙ order confirmation Page
-(image order confirmation.jpg)
+[(image order-confirmation.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/order-confirmation.jpg)
 
 ---
 
